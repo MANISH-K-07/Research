@@ -1,7 +1,27 @@
-# IEEE Research Papers
-**Repository showcasing my colossal passion in the field of Technical Research.**
-# 
+
 ### 1. Charity with Clarity : Crowdfunding using Smart contracts
-I have been working on a Research group project on the topic of CROWDFUNDING via Smart Contracts - An Implementation of Blockchain Technology. 
-Recently finished the code base and assembled my work. This paper related to Crypto Crowdfunding using a custom developed Smart Contract aided by Blockchain technology is finally getting published at IEEE. Blockchain is an emerging hot pot in the industry and learning this technology was loads of fun.
-Applying it to code a Smart Contract that resolves the problem of transparency and trust issues with third party organisations like NGOs is the basic idea behind this innovative project.
+---
+IEEE ICRISST 2024 — Blockchain • Ethereum • Smart Contracts • Crowdfunding
+
+- Direct Access Link : [IEEE Xplore](https://ieeexplore.ieee.org/document/10921771)
+
+This research paper "Charity With Clarity: Crowdfunding Using Smart Contracts", is published in the 2024 IEEE International Conference on Recent Innovation in Smart and Sustainable Technology (ICRISST).
+
+The project introduces a transparent, trustless, blockchain-based crowdfunding model that replaces traditional NGO-driven donation systems with Ethereum smart contracts — ensuring security, accountability, and tamper-proof fund management.
+
+📘 Publication Details
+
+- Conference: IEEE ICRISST 2024
+
+- Location: Bengaluru, India
+
+- Publisher: IEEE Xplore
+
+- Publication Year: 2024
+
+Full paper is available in this repository under [IEEEXploreResearchPaper.pdf](https://github.com/MANISH-K-07/Research/blob/main/Blockchain-Project-IEEE.pdf).
+
+---
+⭐ If you find this research useful, consider starring the repository!
+
+Further development in decentralized and transparent crowdfunding systems upcoming . . .
