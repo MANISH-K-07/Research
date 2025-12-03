@@ -7,6 +7,7 @@
  *  This Smart Contract is coded as part of my IEEE Xplore Research Project based on Blockchain based crowdfunding.
  *  TITLE - Charity with Clarity: Crowdfunding using Smart Contracts
 */
+
 //SPDX-License-Identifier: UNLICENSED
 pragma solidity >=0.5.0 < 0.9.0;
 
