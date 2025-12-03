@@ -8,7 +8,9 @@ IEEE ICRISST 2024 — Blockchain • Ethereum • Smart Contracts • Crowdfundi
 Traditional crowdfunding suffers from issues of trust, lack of transparency, and full control by intermediaries. This paper proposes an Ethereum-based smart-contract system in which donors can contribute funds securely, track every transaction, and vote on fund utilization requests made by organizations.
 The smart contract enforces all rules automatically — ensuring decentralization, transparency, and fraud prevention — without relying on any centralized authority.
 
-📄 Full paper is available in this repository under [IEEEXplore-Research-Paper.pdf](https://github.com/MANISH-K-07/Research/blob/main/IEEEXplore-Research-Paper.pdf).
+👉🏻 Full paper is available in this repository under [IEEEXplore-Research-Paper.pdf](https://github.com/MANISH-K-07/Research/blob/main/IEEEXplore-Research-Paper.pdf).
+
+👉🏻 Smart Contract can be viewed under [SmartContract.sol](https://github.com/MANISH-K-07/Research/blob/main/SmartContract.sol).
 
 ---
 🧠 Key Highlights
