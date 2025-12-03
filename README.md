@@ -21,6 +21,8 @@ The project introduces a transparent, trustless, blockchain-based crowdfunding m
 
 Full paper is available in this repository under [IEEEXplore-Research-Paper.pdf](https://github.com/MANISH-K-07/Research/blob/main/IEEEXplore-Research-Paper.pdf).
 
+Smart Contract can be viewed under [SmartContract.sol](https://github.com/MANISH-K-07/Research/blob/main/SmartContract.sol).
+
 ---
 ⭐ If you find this research useful, consider starring the repository!
 
