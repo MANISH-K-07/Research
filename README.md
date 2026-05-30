@@ -19,7 +19,9 @@ The project introduces a transparent, trustless, blockchain-based crowdfunding m
 
 - Publication Year: 2024
 
-👉🏻 Full paper is available in this repository under [IEEEXplore-Research-Paper.pdf](https://github.com/MANISH-K-07/Research/blob/main/IEEEXplore-Research-Paper.pdf).
+👉🏻 Publication Copy is available in this repository under [IEEEXplore-ICRISST2024-Publication.pdf](https://github.com/MANISH-K-07/Research/blob/main/IEEEXplore-ICRISST2024-Publication.pdf).
+
+👉🏻 Overview of the paper available at [IEEEXplore-ICRISST2024-Paper-Info.md](https://github.com/MANISH-K-07/Research/blob/main/IEEEXplore-ICRISST2024-Paper-Info.md).
 
 👉🏻 Smart Contract can be viewed under [SmartContract.sol](https://github.com/MANISH-K-07/Research/blob/main/SmartContract.sol).
 
