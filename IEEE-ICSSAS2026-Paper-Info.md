@@ -32,6 +32,7 @@ Evaluated across a benchmark dataset of 150 anonymized candidate profiles spanni
 
 ## 🛠️ Repository Mapping
 * 👉 **Publication Copy:** Stored in the root directory under [IEEE-ICSSAS2026-Publication.pdf](https://github.com/MANISH-K-07/Research/blob/main/IEEE-ICSSAS2026-Publication.pdf).
+* 👉 **SphinxATS System:** Available at [MANISH-K-07/SphinxATS](https://github.com/MANISH-K-07/SphinxATS).
 * 👉 **Core Implementation:** Modular Python and Flask processing engine, NLP text pipelines, and responsive frontend visualization modules located within the project repository.
 
 ---
