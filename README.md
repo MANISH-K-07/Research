@@ -25,7 +25,7 @@ The project introduces a transparent, trustless, blockchain-based crowdfunding m
 
 ---
 
-### 2. SphinxATS : Multi-Attribute AI-based Decision Support System for Automated Resume Screening
+### 2. SphinxATS: A Multi-Attribute AI-based Decision Support System <br>for Automated Resume Screening and Candidate Ranking
 ---
 IEEE ICSSAS 2026 — NLP • Multi-Attribute Optimization • Explainable AI • Decision Support Systems
 
