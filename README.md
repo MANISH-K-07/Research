@@ -48,6 +48,4 @@ The project introduces an AI-driven resume screening and ranking framework that 
 👉🏻 SphinxATS implementation available in [MANISH-K-07/SphinxATS](https://github.com/MANISH-K-07/SphinxATS).
 
 ---
-⭐ *If you find this research useful, consider starring the repository!*
-
-*Further development in decentralized platforms and transparent AI optimization systems upcoming . . .*
+⭐ *Further development in decentralized platforms and transparent AI optimization systems upcoming . . .*
